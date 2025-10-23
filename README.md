@@ -1,16 +1,31 @@
-## Hi there 👋
+name: Ishan Tripathy
+located_in: Ann Arbor, Michigan
+current_school: University of Michigan
+education: Bachelor's in Data Science
 
-<!--
-**itripathy0622/itripathy0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fields_of_interests:
+  [
+    "Data Science",
+    "Machine Learning",
+    "AI Integration",
+    "App/Web Development",
+    "UI/UX Design",
+  ]
+  
+technical_experiences:
+  [
+    "Full Stack Developer"
+    "SEO/SaaS Developer",
+    "Android/Apple Developer",
+    "Product Management",
+    "Finance Management",
+  ]
+  
+currently_learning: ["Prompt Engineering", "Data Structures", "Regression Analysis", "Quantitative Finance"]
+hobbies: ["Tennis", "Fitness", "Hiking", "Food", "Movies"]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if (anyQuestions == true) {
+  print('Feel free to reach out: itripath@umich.edu')
+} else {
+  print('Check out the rest of my projects!')
+}
