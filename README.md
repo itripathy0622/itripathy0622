@@ -25,7 +25,9 @@ currently_learning: ["Prompt Engineering", "Data Structures", "Regression Analys
 hobbies: ["Tennis", "Fitness", "Hiking", "Food", "Movies"]
 
 if (anyQuestions == true) {
-  print('Feel free to reach out: itripath@umich.edu')
+  print('Feel free to reach out: 
+        itripath@umich.edu 
+        www.linkedin.com/in/ishan-tripathy')
 } else {
   print('Check out the rest of my projects!')
 }
